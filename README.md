@@ -1,4 +1,3 @@
-# jianzhi_offer
-剑指offer算法题
+# 剑指offer算法题--Python实现
 
 陆续更新中...
